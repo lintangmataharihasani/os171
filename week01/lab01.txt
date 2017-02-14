@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 lintang.matahari StafCS 4096 Feb 14 17:01 .
+drwx--x--x  4 lintang.matahari StafCS 4096 Feb 14 16:58 ..
+drwxr-xr-x  8 lintang.matahari StafCS 4096 Feb 14 17:01 .git
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:45 key
+-rw-r--r--  1 lintang.matahari StafCS    0 Feb 14 17:04 lab01.txt
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:45 log
+-rw-r--r--  1 lintang.matahari StafCS    7 Feb 14 16:37 README.md
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:51 sandbox
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:58 week00
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:43 week01
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:43 week02
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:43 week03
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:44 week04
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:44 week05
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:44 week06
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:44 week07
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:44 week08
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:45 week09
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:45 week10
+drwxr-xr-x  2 lintang.matahari StafCS 4096 Feb 14 16:46 xtra
+/home/fasilkom/mahasiswa/l/lintang.matahari/os171/week01
