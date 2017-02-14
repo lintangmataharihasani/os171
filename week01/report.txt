@@ -1,0 +1,1 @@
+Tugas pada minggu pertama (Task week01) mencakup tutorial push and pull pada github melalui PuTTY, cloning git repository, serta command-command pada terminal. 
