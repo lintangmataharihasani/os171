@@ -1,3 +1,6 @@
 w02-170221-16-PS-Mengerjakan Task Week 02. Work Done: SCP Tutorial and copying file needed. Work to do: Public Key Cryptography and Intro to C
 w02-170222-22-PS-Mengerjakan Task Week 02. Work Done: Menyelesaikan bagian awal Task Week 02
 w02-170222-22-PS-Mengerjakan Task Week 02. Work Done: Menyelesaikan bagian pertama mengenai encryption. Work To do: Intro to C
+w02-170223-20-PS-Menyelesaikan Task Week 02. Work Done: Menyelesaikan bagian cryptography dan intro to C
+w02-170223-21-PS-Menyelesaikan Task Week 02. Work Done: Memastikan semua langkah dilalui dengan benar
+
