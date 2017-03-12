@@ -1,0 +1,7 @@
+w04-170308-21-PS-Mengerjakan Lab Week 04.
+w04-170308-22-PS-Menyelesaikan bagian awal lab week 04.
+w04-170309-21-PS-Mengerjakan Lab Week 04. Mempelajari seputar global variable address dan local variable address.
+w04-170309-22-PS-Menyelesaikan lab week 04 hingga step 29.
+w04-170310-16-PS-Menyelesaikan pertanyaan bagian pertama. Memahami perbedaan global variable address dan local variable address.
+w04-170310-18-PS-menyelesaikan lab week 04 hingga bagian ketiga write.c 
+w04-170310-19-PS-Menyelesaikan pertanyaan lab04.txt dan mereview open and close I/O Process
