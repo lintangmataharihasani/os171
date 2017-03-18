@@ -1,0 +1,3 @@
+170317-21-PS-Mengerjakan bagian awal Task Week05 mengenai Memory
+170317-22-PS-Mengerjakan bagian kedua Task Week05. Mendalami program 06-memory.c
+170318-09-PS-Menyelesaikan Task Week05. Push file ke Github
