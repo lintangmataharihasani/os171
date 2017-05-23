@@ -6,3 +6,6 @@ w10-170521-18-PS-Menilai ulasan week00
 w10-170521-19-PS-Menilai ulasan week01
 w10-170521-19-PS-Menilai ulasan week03
 w10-170521-20-PS-Menyelesaikan penilaian ulasan untuk 3 week pertama paket ganjil
+w10-170523-09-PS-Menilai ulasan week05
+w10-170523-09-PS-Menilai ulasan week07
+w10-170523-09-PS-Menilai ulasan week09. Menyelesaikan tugas Ranking
